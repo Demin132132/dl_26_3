@@ -23,8 +23,8 @@ $ python inference_unet.py
 ````
 
 ## Dataset
-Для обучения использовался набор данных Cracks on the Surface of the Construction (CrackForest Dataset), 
-представленный по [ссылке](https://github.com/Charmve/Surface-Defect-Detection#9cracks-on-the-surface-of-the-construction).
+Для обучения использовался набор данных Crack Segmentation dataset, 
+представленный по [ссылке](https://drive.google.com/open?id=1xrOqv0-3uMHjZyEUrerOYiYXW_E8SUMP).
 Набор данных представляет собой аннотированную базу данных изображений трещин на поверхностях, которая может быть 
 использована как представление общего состояние поверхности.
 
